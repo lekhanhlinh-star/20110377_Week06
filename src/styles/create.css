@@ -1,0 +1,41 @@
+/* Style headings */
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Style input fields */
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+}
+
+/* Style buttons */
+button {
+  background-color: #18a513;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #037ef8;
+}
+
+/* Style link buttons */
+.link-button {
+  background-color: #003307;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  text-decoration: none;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.link-button:hover {
+  background-color: #ff004c;
+}
